@@ -1,0 +1,85 @@
+{
+
+  "client": {
+  "prefix": "!",
+  "voice": "877973479532675173",
+  "owner": "744229839137144925",
+  "token": "TOKEN",
+  "footer": "Richârd wâs here 💖",
+  "activity": "Richârd ❤️ #KİMSEBAŞ",
+  "status": "ONLINE"
+            },
+
+  "guild": {
+  "server": "872939417273245756",
+  "tag": "a",
+  "untag": "⸸",
+  "limit": 10
+           },
+
+  "crew": {
+    "crew1": {
+      "owner": "<@744229839137144925>",
+      "name": "ily",
+      "tag": "#6113",
+      "hashtag": "6113",
+      "role": "<@&873267639022133309>"
+    },
+
+    "crew2": {
+      "owner": "<@852667869782343691>",
+      "name": "carry",
+      "tag": "#1457",
+      "hashtag": "1457",
+      "role": "<@&873267639689052190>"
+    }
+  },
+
+  "selection": {
+  "rol1": "873267639022133309",
+  "rol2": "873267639689052190"
+           },
+
+  "staff": {
+  "transporter": ""
+           },
+
+  "register": {
+  "staff": "ID",
+  "boy": ["ID", "ID"],
+  "women": ["ID", "ID"],
+  "unregister": ["ID", "ID"]
+           },
+
+  "penals": {
+  "chatmute": {
+  "staff": "",
+  "muted": "",
+  "limit": 0
+              },
+
+  "voicemute": {
+  "staff": "",
+  "muted": "",
+  "limit": 0
+              },
+
+  "jail":     {
+  "staff": "",
+  "jailed": "",
+  "limit": 0
+              },
+
+  "warn":     {
+  "staff": "",
+  "warned": "",
+  "limit": 0
+              },
+
+  "ban":      {
+  "staff": "",
+  "limit": 0
+              }
+            }
+
+}
